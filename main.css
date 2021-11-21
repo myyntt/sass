@@ -1,0 +1,33 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100vh;
+}
+
+.jumbo {
+  padding-top: 150px;
+  height: 200vh;
+}
+
+.navbar a {
+  color: #131313;
+}
+.navbar li.active {
+  background: #ff9900;
+}
+.navbar li.active a {
+  color: #fafafa;
+}
+.navbar .navbar-toggle .icon-bar {
+  background: #131313;
+}
+
+.shrink .navbar {
+  color: #fafafa;
+  background: #00c6ff;
+  background: linear-gradient(35deg, #00c6ff 10%, #0072ff 90%);
+}
+.shrink .navbar-toggle .icon-bar {
+  background: #fafafa;
+}/*# sourceMappingURL=main.css.map */
